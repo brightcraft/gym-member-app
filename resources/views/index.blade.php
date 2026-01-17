@@ -10,7 +10,7 @@
         managing gym member, by using features such as create,
         reade, update, delete, send notify email and more,
         also the app is easy to use in any time." />
-        <meta name="author" content="Ndriçim Lahu" />
+        <meta name="author" content="BrightCraft" />
 
         <title>{{ config('app.name', 'Laravel') }}</title>
 
@@ -82,7 +82,7 @@
                     &copy; <strong>Gym Member App</strong>
                     <span id="copyright-year" onload="copyrightYear()"></span>. All Rights Reserved.
                     <br><br>
-                    Powered by <a href="https://ndriqimlahu.github.io"><strong>Ndriçim Lahu</strong></a>
+                    Powered by <a href="https://brightcraft.github.io"><strong>BrightCraft</strong></a>
                 </div>
             </div>
         </footer>

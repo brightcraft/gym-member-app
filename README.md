@@ -74,7 +74,7 @@ Before starting, ensure the following are installed on your system:
 
 1. Clone or download the repository to your local machine:
    ```
-   git clone https://github.com/ndriqimlahu/gym-member-app.git
+   git clone https://github.com/brightcraft/gym-member-app.git
    ```
 2. Open the repository folder in your preferred IDE or code editor.
 3. Configure the environment settings:
@@ -135,62 +135,62 @@ Below you can see some additional useful screenshots of what the web application
 
 - Home page | Login page
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/01.1-Home%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/02.1-Log%20In%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/01.1-Home%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/02.1-Log%20In%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - Sign up or Register page | Dashboard page
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/03.1-Register%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/04.1-Dashboard%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/03.1-Register%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/04.1-Dashboard%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - Mail Notification — Registered successfully | Forgot Password page
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/05-Register%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/06.1-Forgot%20Password%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/05-Register%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/06.1-Forgot%20Password%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - Mail Notification — Reset the password | Reset Password page
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/07-Reset%20Password%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/08.1-Reset%20Password%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/07-Reset%20Password%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/08.1-Reset%20Password%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - Add Member page | Mail Notification — Membership created
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/09.1-Add%20Member%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/10-Membership%20Created%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/09.1-Add%20Member%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/10-Membership%20Created%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - View Member page — A new member has been added | Edit Member page
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/11.1-View%20Member%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/12.1-Edit%20Member%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/11.1-View%20Member%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/12.1-Edit%20Member%20page%20(Responsive%20for%20Desktop).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - View Member page — A member has been updated | Mail Notification — Membership updated
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/13-Member%20Edited%20in%20View%20Member%20page.png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/14-Membership%20Updated%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/13-Member%20Edited%20in%20View%20Member%20page.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/14-Membership%20Updated%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - View Member page — Many members have been added | View Member page — All members have been removed
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/15-View%20Member%20page%20(Multi%20Members).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/16-Member%20Deleted%20in%20View%20Member%20page.png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/15-View%20Member%20page%20(Multi%20Members).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/16-Member%20Deleted%20in%20View%20Member%20page.png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - Mail Notification — Membership cancelled
-<img src="https://raw.githubusercontent.com/ndriqimlahu/gym-member-app/main/preview/17-Membership%20Cancelled%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
+<img src="https://raw.githubusercontent.com/brightcraft/gym-member-app/main/preview/17-Membership%20Cancelled%20Notification%20by%20Email.png" align="top" width="48%" height="auto">
 
 ## Support
 
